@@ -11,11 +11,11 @@ Platform *e-commerce marketplace* berbasis web yang menjembatani pelaku Usaha Mi
 ---
 
 ## Anggota Kelompok 2
-1. **Muhammad Luthfi Maulana** — Ketua Kelompok, GitHub Coordinator & Backend Developer
+1. **Michael Hafidz** — Lead Project Manager
 2. **Muhammad Reihan Zafiandy** — System Analyst & Backend/Logic Developer
 3. **Giatri Maharani Putri** — Lead UI/UX Designer & Frontend Developer
-4. **Michael Hafidz** — Frontend Developer (Modul Pembeli)
-5. **Andhika Hendra** — Fullstack / Module Developer (Panel UMKM & Admin)
+4. **Muhammad Luthfi Maulana** — , GitHub Coordinator & Backend Developer
+5. **Andhika Hendra** — Frontend / Module Developer (Panel UMKM & Admin)
 6. **Gerry Abiguel** — QA Tester & Technical Writer
 
 ---
